@@ -23,7 +23,8 @@ Endpoint
 SIEM
 
 CERTIFICATIONS
-   SOC Level1 TryHackMe
+
+SOC Level1 TryHackMe
 
 PROJECTS
 
