@@ -9,18 +9,8 @@ To apply my knowledge of security tools, incident detection, and threat response
 
 SKILLS
 
-Skill 	Associated Project
-SIEM Implementation and Log Analysis 	Detection Lab
-Network Traffic Monitoring and Attack Detection 	Detection Lab
-Security Automation with Shuffle SOAR 	SOC Automation Lab
-Incident Response Planning and Execution 	SOC Automation Lab
-Case Management with TheHive 	SOC Automation Lab
-Scripting and Automation for Threat Mitigation 	SOC Automation Lab
-
-TOOLS
-Network
-Endpoint
-SIEM
+Skill 	                                                    Associated Project
+SIEM Implementation and Log Analysis                      
 
 CERTIFICATIONS
 
